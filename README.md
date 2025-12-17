@@ -4,7 +4,8 @@
 <p align="center">
   <a href="mailto:chawlasaksham2002@gmail.com">📧 Email</a> •
   <a href="https://portfolio-hlyh.onrender.com/">🌐 Portfolio</a> •
-  <a href="https://github.com/chawlasaksham">💻 GitHub</a>
+  <a href="https://github.com/chawlasaksham">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/saksham-chawla-b1b128253">👨🏻‍💻 LinkedIn</a>
 </p>
 
 ---

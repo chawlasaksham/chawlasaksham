@@ -5,7 +5,7 @@
 - 💻 Interested in **Full Stack Development, Machine Learning & AI**
 - 🌱 Currently building **AI-driven and data-intensive applications**
 - 🛠 Tech Stack: **React, Node.js, Python, Flask, MySQL, MongoDB**
-- 📫 Reach me at: **chawlasaksham2002@gmail.com**
+- 📫 Reach me at: **chawlasaksham02@gmail.com**
 
 ---
 

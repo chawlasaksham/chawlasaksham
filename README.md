@@ -73,6 +73,7 @@ Personal portfolio built using React and animations.
 **GST Billing & Inventory Management System**  
 Developed during my Software Developer Internship at HCL Technologies. Features invoice management, PDF generation, JWT authentication, bulk CSV import, inventory management, and REST APIs.  
 **Tech:** Node.js, Express.js, MySQL, Sequelize, Docker, Swagger, Jest, Supertest
+🔗 https://github.com/chawlasaksham/HCL-project
 
 **CPU Scheduler**  
 Web-based CPU scheduling algorithm simulator using Python Flask.  
